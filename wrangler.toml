@@ -1,8 +1,8 @@
 name = "blazenote-frontend"
 compatibility_date = "2025-10-21"
 compatibility_flags = ["nodejs_compat"]
-[[routes]]
 
+[[routes]]
 pattern = "blazenote-frontend.enterprising-philosopher.sxplab.com"
 custom_domain = true
 
